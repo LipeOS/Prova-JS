@@ -1,0 +1,39 @@
+#title{
+    text-align: center;
+    color: #0C3756;
+    font-family: 'Courier New', Courier, monospace;
+    background: #3A728E;
+    font-size: 35px;
+}
+#nome{
+  
+    text-decoration: none;
+    color: #0C3756;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    font-size: 22px;
+    
+}
+#nome2{
+    text-align: center;
+    text-decoration: none;
+}
+body{
+    background: #b7d9e2;
+    
+}
+#exercicio{
+    text-align: right;
+    color: black;
+    list-style-type: none; 
+    text-decoration: none;
+    font-size: 19px;
+}
+#fundo {
+    position: absolute;
+    top: 190px; 
+    left: 1000px; 
+    width: 300px;
+    height: 300px;
+  }
+  
